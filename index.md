@@ -29,7 +29,7 @@ This course deals with the Transformer-based pre-trained language models and app
 ### Syllabus
 
 * **Week 0 (3/2 Thu)** Course Introduction
-  * [slide]()
+  * [slide](https://github.com/sanajlee/nlp2023g/raw/master/nlp0_courseintro.pdf)
 
 * **Week 1 (3/7, 3/9)** Paradigms of NLP
   * [Pre-Trained Models: Past, Present and Future](https://arxiv.org/pdf/2106.07139.pdf)
