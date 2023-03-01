@@ -2,8 +2,8 @@
 layout: default
 ---
 
-# 👾108.536A Studies on Computational Linguistics II💻
-## Transformer-based Pre-Trained Models and Prompt Tuning
+### 👾108.536A Studies on Computational Linguistics II💻
+#### Transformer-based Pre-Trained Models and Prompt Tuning
 
 
 ### Course Information
