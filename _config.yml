@@ -1,0 +1,13 @@
+# Site settings
+title: Computational Linguistics (Spring 2023)
+tag_text: Computational Linguistics (Spring 2023)
+description: Spring 2023 Computational Linguistics @ Dept. of Linguistics, Seoul National University
+url: "https://sanajlee.github.io" # base URL for your site ie. "https://www.example.com"
+baseurl: "/cl2023u" # subpath for base of site, leave blank if hosting at root
+
+font-awesome-include: true # make this false if you don't need font-awesome
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]
