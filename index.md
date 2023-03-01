@@ -13,7 +13,7 @@ layout: default
 This course deals with the Transformer-based pre-trained language models and application fields focused on Prompt Tuning. Students should present some of the selected papers on relevant topics of the course, and finally, implement a system or write a conference-level paper based on the course content. Students should have taken the course [Computational Linguistics I] before or should be familiar with the relevant content, including Python and PyTorch.
 
 * Paper list for presentation
-  * https://docs.google.com/spreadsheets/d/1D0_wUdGtKQsha5TZqU58BWh5vqYF5LuEt7L-iFmOa3k/edit#gid=0
+  <https://docs.google.com/spreadsheets/d/1D0_wUdGtKQsha5TZqU58BWh5vqYF5LuEt7L-iFmOa3k/edit#gid=0>
 
 
 ### Resources
