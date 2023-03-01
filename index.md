@@ -182,7 +182,7 @@ This course deals with the Transformer-based pre-trained language models and app
 
  
 * **Week 13 (5/30, 6/1)** Prompt Tuning (applications)
-  & Week 14 (6/8 Thu, 6/13 Tue)** Prompt Tuning (applications)
+  & **Week 14 (6/8 Thu, 6/13 Tue)** Prompt Tuning (applications)
   * Domain adaptation
     * Multitask Prompted Training Enables Zero-Shot Task Generalization <https://arxiv.org/abs/2110.08207>
     * PADA <https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00468/110538/PADA-Example-based-Prompt-Learning-for-on-the-fly>
